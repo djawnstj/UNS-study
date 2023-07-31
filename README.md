@@ -2,7 +2,7 @@
 UNS Networks 사내 스터디
 
 ## 스터디 목록
-1. 이것이 자바다 개정판 유튜브 강의
+1. [이것이 자바다 개정판 유튜브 강의](https://github.com/djawnstj/UNS-study/milestone/1)
 
 # 운영 방법
 책/강의 를 보고 매주 주차별 토론 주제를 각자 선정
