@@ -14,7 +14,7 @@ UNS Networks 사내 스터디
 
 안호성/[@annnhs](https://github.com/annnhs)
 
-이인호/[@[kangminhyuk1111](https://github.com/Y0ungDaddy)
+이인호/[Y0ungDaddy](https://github.com/Y0ungDaddy)
 
 강민혁/[@kangminhyuk1111](https://github.com/kangminhyuk1111)
 
